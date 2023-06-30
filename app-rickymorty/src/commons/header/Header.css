@@ -1,0 +1,23 @@
+.container-header{
+    background-color: #0e100f;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:0.6rem 1rem;
+}
+
+.box-logo{
+    margin-left: 1rem;
+}
+
+.logo-header{
+    width: 4rem;
+    border-radius: 3rem;
+}
+
+
+.link-header{
+    margin: 1rem;
+    color: #70beda;
+}
+

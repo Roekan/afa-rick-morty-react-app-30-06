@@ -1,0 +1,25 @@
+.box-menu-footer{
+    display: block;
+}
+
+.container-footer{
+    background-color: #70beda;
+    display: flex;
+    align-items: start;
+    justify-content: left;
+    padding:0.6rem 1rem;
+}
+
+.box-menu-footer{
+    display: flex;
+    flex-direction: column;
+    padding: 0rem 2rem;
+}
+
+
+
+.link-footer{
+    margin: 0.2rem;
+    color: #000;
+}
+
